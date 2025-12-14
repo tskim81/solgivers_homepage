@@ -71,7 +71,6 @@ const SolLocation = () => {
                     연락처
                   </h3>
                   <p className="text-muted-foreground">T. 044-865-9022</p>
-                  <p className="text-muted-foreground">M. 010-7794-3070</p>
                   <div className="flex gap-6">
                     <p className="text-muted-foreground">M. 010-7794-3070</p>
                     <p className="text-muted-foreground">M. 010-4493-0666</p>
