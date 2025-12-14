@@ -49,7 +49,7 @@ const SolLocation = () => {
                     주소
                   </h3>
                   <p className="text-muted-foreground">
-                    세종특별자치시 한누리대로 245
+                    세종특별자치시 한누리대로 245 807호
                   </p>
                   <p className="text-sm text-muted-foreground mt-1">
                     우편번호: 30127
@@ -72,6 +72,10 @@ const SolLocation = () => {
                   </h3>
                   <p className="text-muted-foreground">T. 044-865-9022</p>
                   <p className="text-muted-foreground">M. 010-7794-3070</p>
+                  <div className="flex gap-6">
+                    <p className="text-muted-foreground">M. 010-7794-3070</p>
+                    <p className="text-muted-foreground">M. 010-4493-0666</p>
+                  </div>
                 </div>
               </div>
             </div>
