@@ -29,6 +29,11 @@ const SolTeam = () => {
       position: "CEO",
       description: "대표이사",
     },
+    {
+      name: "이상우",
+      position: "Department Head",
+      description: "개발팀장",
+    },
   ];
 
   return (
